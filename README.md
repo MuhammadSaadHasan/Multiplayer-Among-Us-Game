@@ -1,5 +1,5 @@
 # Multiplayer-Among-Us-Game
-## The game should has the following features:
+## The game has the following features:
 1. The game board is represented as a two-dimensional grid of squares. Each square can either be
 empty or contain an item that the player can collect.
 2. Players can move around the board by pressing arrow keys on their keyboard.
